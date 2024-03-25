@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Kaciexx",
+    "Name": "FFXIV Vibe Plugin (net8 patch)",
+    "Description": "Plugin that let you vibe your controller or toys (temporary patched for net8)",
+    "InternalName": "FFXIV_Vibe_Plugin",
+    "AssemblyVersion": "2.4.1.1",
+    "RepoUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "vibe",
+      "vibration",
+      "wave"
+    ],
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://github.com/kaciexx/FFXIV_Vibe_Plugin/raw/master/images/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1704725694,
+    "DownloadCount": 69420,
+    "DownloadLinkInstall": "https://github.com/736164-67686F7374/quicktest/releases/download/82819191/FFXIV_Vibe_Plugin_v2.4.1.0_net8_prem_patch.zip",
+    "DownloadLinkTesting": "https://github.com/736164-67686F7374/quicktest/releases/download/82819191/FFXIV_Vibe_Plugin_v2.4.1.0_net8_prem_patch.zip",
+    "DownloadLinkUpdate": "https://github.com/736164-67686F7374/quicktest/releases/download/82819191/FFXIV_Vibe_Plugin_v2.4.1.0_net8_prem_patch.zip"
+  }
+]
